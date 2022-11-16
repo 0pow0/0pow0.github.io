@@ -6,7 +6,16 @@
     <description>Recent content on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Object Oriented Design Principles</title>
+      <link>https://0pow0.github.io/posts/OOD_principles/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/OOD_principles/</guid>
+      <description>面向对象设计原则 单一职责原则：Single Responsibility Principle, SRP 一个类只负责一个功能领域中的相应职责。或者可以定义为：就一个类而言，应该只有一个引起它变化的</description>
+    </item>
+    
     <item>
       <title>Builder Pattern</title>
       <link>https://0pow0.github.io/posts/design_pattern/builder/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://0pow0.github.io/posts/gradle/gradle/</guid>
       <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0pow0.github.io/posts/OOD_principles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0pow0.github.io/posts/OOD_principles/</guid>
-      <description></description>
     </item>
     
     <item>
