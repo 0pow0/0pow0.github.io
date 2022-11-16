@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>UML Diagrams on Rui&#39;s Blog</title>
-    <link>/posts/uml/diagram/</link>
+    <link>/posts/UML/diagram/</link>
     <description>Recent content in UML Diagrams on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/posts/uml/diagram/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/posts/UML/diagram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/uml/diagram/class_diagram/</link>
+      <link>/posts/UML/diagram/class_diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/uml/diagram/class_diagram/</guid>
+      <guid>/posts/UML/diagram/class_diagram/</guid>
       <description>Class Diagram 类由三部分组成： 类名 属性 1 可见性 名称:类型 [ = 默认值] 可见性 public: + private: - protected: # 方法 1 可见性 名称(参数列表) [: 返回类型] 类与类之间的关系 关联关系</description>
     </item>
     
