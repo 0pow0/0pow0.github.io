@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://0pow0.github.io/posts/design_pattern/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://0pow0.github.io/posts/OOD_principles/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,13 +17,16 @@
     <loc>https://0pow0.github.io/posts/UML/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://0pow0.github.io/posts/design_pattern/creational_pattern/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/design_pattern/creational_pattern/singleton_pattern/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://0pow0.github.io/posts/design_pattern/builder/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://0pow0.github.io/tags/Design-Pattern/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://0pow0.github.io/posts/design_pattern/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://0pow0.github.io/tags/gradle/</loc>
