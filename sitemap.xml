@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://0pow0.github.io/posts/os/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0pow0.github.io/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/os/thread/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://0pow0.github.io/posts/discrete_math/</loc>
     <lastmod>2022-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0pow0.github.io/posts/</loc>
-    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://0pow0.github.io/posts/discrete_math/recurrence_relation/</loc>
-    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0pow0.github.io/</loc>
     <lastmod>2022-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0pow0.github.io/posts/design_pattern/</loc>
@@ -50,6 +56,16 @@
     <loc>https://0pow0.github.io/categories/</loc>
   </url><url>
     <loc>https://0pow0.github.io/posts/UML/diagram/class_diagram/</loc>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/prob/expectation/</loc>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/os/file/</loc>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/os/io/</loc>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/os/memory/</loc>
+  </url><url>
+    <loc>https://0pow0.github.io/posts/os/process/</loc>
   </url><url>
     <loc>https://0pow0.github.io/series/</loc>
   </url><url>

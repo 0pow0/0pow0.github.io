@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Object Oriented Design Principles</title>
       <link>https://0pow0.github.io/posts/OOD_principles/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://0pow0.github.io/posts/OOD_principles/</guid>
       <description>面向对象设计原则 单一职责原则：Single Responsibility Principle, SRP 一个类只负责一个功能领域中的相应职责。或者可以定义为：就一个类而言，应该只有一个引起它变化的</description>
+    </item>
+    
+    <item>
+      <title>Expectation</title>
+      <link>https://0pow0.github.io/posts/prob/expectation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/expectation/</guid>
+      <description>期望 RV的函数的期望是函数值和prob的积的积分或导数 $E[c] = c$, c是常数 方差 方差的定义：偏差平方的期望 偏差平方：$(X-E[X])^2$ $Var[X] = E[(X-E[X])^2]$ 性</description>
     </item>
     
   </channel>

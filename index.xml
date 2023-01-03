@@ -6,7 +6,16 @@
     <description>Recent content on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thread</title>
+      <link>https://0pow0.github.io/posts/os/thread/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/thread/</guid>
+      <description>Thread</description>
+    </item>
+    
     <item>
       <title>Recurrence Relations</title>
       <link>https://0pow0.github.io/posts/discrete_math/recurrence_relation/</link>
@@ -61,6 +70,56 @@ $a_n$ has this form $a_n = c_1r_1^n+ c_2r_2^n$, where $r_1, r_2$ is the roots. $
       
       <guid>https://0pow0.github.io/posts/UML/diagram/class_diagram/</guid>
       <description>Class Diagram 类由三部分组成： 类名 属性 1 可见性 名称:类型 [ = 默认值] 可见性 public: + private: - protected: # 方法 1 可见性 名称(参数列表) [: 返回类型] 类与类之间的关系 关联关系</description>
+    </item>
+    
+    <item>
+      <title>Expectation</title>
+      <link>https://0pow0.github.io/posts/prob/expectation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/expectation/</guid>
+      <description>期望 RV的函数的期望是函数值和prob的积的积分或导数 $E[c] = c$, c是常数 方差 方差的定义：偏差平方的期望 偏差平方：$(X-E[X])^2$ $Var[X] = E[(X-E[X])^2]$ 性</description>
+    </item>
+    
+    <item>
+      <title>File System</title>
+      <link>https://0pow0.github.io/posts/os/file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/file/</guid>
+      <description>Directory just store (filename, inode) pair in it.
+Hard link is just create another (filename, inode) pair under the directory.
+Soft link is the third file type beyond file and dir whose content is the linked-to filename, thus soft link has different inode number.
+See,
+Inode Given a free disk space, how to design file system on that?
+Sperate this space into file system blocks Assign data region, inode table, bit map for data region and inode table and super block Data region: User file content</description>
+    </item>
+    
+    <item>
+      <title>I/O</title>
+      <link>https://0pow0.github.io/posts/os/io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/io/</guid>
+      <description>I/O</description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://0pow0.github.io/posts/os/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/memory/</guid>
+      <description>Memory Virtualization</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://0pow0.github.io/posts/os/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/process/</guid>
+      <description>Process</description>
     </item>
     
   </channel>
