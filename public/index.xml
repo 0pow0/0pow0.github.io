@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rui&#39;s Blog</title>
+    <link>https://0pow0.github.io/</link>
+    <description>Recent content on Rui&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thread</title>
+      <link>https://0pow0.github.io/posts/os/thread/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/thread/</guid>
+      <description>Thread</description>
+    </item>
+    
+    <item>
+      <title>Recurrence Relations</title>
+      <link>https://0pow0.github.io/posts/discrete_math/recurrence_relation/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/discrete_math/recurrence_relation/</guid>
+      <description>First-Order Recurrence Relations: ${a_n = sa_{n-1} + t}$ $a_n$ has this form: $a_n = c_1s^n+c_2$, $c_1, c_2$ solved by $$ a_0 = c_1+c_2\newline a_1 = c_1s+c_2 $$
+Second-Order Recurrence Relations: ${a_n = s_1a_{n-1} + s_2a_{n-2}}$ Case 1: $x^2 - s_1x - s_2 = 0$ has 2 root
+$a_n$ has this form $a_n = c_1r_1^n+ c_2r_2^n$, where $r_1, r_2$ is the roots. $c_1, c_2$ solved by $$ a_0 = c_1+c_2 \newline a_1 = c_1r_1+ c_2r_2 $$</description>
+    </item>
+    
+    <item>
+      <title>Object Oriented Design Principles</title>
+      <link>https://0pow0.github.io/posts/OOD_principles/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/OOD_principles/</guid>
+      <description>面向对象设计原则 单一职责原则：Single Responsibility Principle, SRP 一个类只负责一个功能领域中的相应职责。或者可以定义为：就一个类而言，应该只有一个引起它变化的</description>
+    </item>
+    
+    <item>
+      <title>单例模式：Singleton Pattern</title>
+      <link>https://0pow0.github.io/posts/design_pattern/creational_pattern/singleton_pattern/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/design_pattern/creational_pattern/singleton_pattern/</guid>
+      <description>单例模式 类只有唯一实例 自行创建这个实例 1 2 3 4 5 6 7 8 9 10 class TaskManager { private static TaskManager tm = null; private TaskManager() {...} public static TaskManager getInstance() { if (tm == null) { tm = new TaskManager(); } return tm; } }</description>
+    </item>
+    
+    <item>
+      <title>Builder Pattern</title>
+      <link>https://0pow0.github.io/posts/design_pattern/builder/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/design_pattern/builder/</guid>
+      <description>Builder Pattern </description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://0pow0.github.io/posts/gradle/gradle/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/gradle/gradle/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Class Diagram</title>
+      <link>https://0pow0.github.io/posts/UML/diagram/class_diagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/UML/diagram/class_diagram/</guid>
+      <description>Class Diagram 类由三部分组成： 类名 属性 1 可见性 名称:类型 [ = 默认值] 可见性 public: + private: - protected: # 方法 1 可见性 名称(参数列表) [: 返回类型] 类与类之间的关系 关联关系</description>
+    </item>
+    
+    <item>
+      <title>Computaion of Random Variables</title>
+      <link>https://0pow0.github.io/posts/prob/RVs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/RVs/</guid>
+      <description>Function of one r.v. $Y = g(X)$ X 是离散，Y也是离散 X是连续，Y是离散 将Y的取值一一列出，再将Y的各种取值的概率求出 X是连续，Y是连续 $g(x)$是严格单调函</description>
+    </item>
+    
+    <item>
+      <title>Continuous RVs</title>
+      <link>https://0pow0.github.io/posts/prob/continuous_rvs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/continuous_rvs/</guid>
+      <description>正态（高斯）分布 $$ X \sim \mathcal{N}(\mu,,\sigma^{2}) $$ $$ p(x) = \frac{1}{\sqrt{2\pi}\sigma}e^{-\frac{(x-\mu)^2}{2\sigma^2}}, -\infty &amp;lt; x &amp;lt; \infty $$ $$ F(x) = \frac{1}{\sqrt{2\pi}\sigma}\int_{-\infty}^{x}e^{-\frac{(t-\mu)^2}{2\sigma^2}}dt $$ 如果RV $X \sim \mathcal{N}(\mu,,\sigma^{2})$, 则可以化为标准正态分布$U = \frac{X-\mu}{\sigma} \sim \mathcal{N}(0, 1)$ $E[X] = \mu$ $Var[X] = \sigma^2$ 若$X\sim \mathcal{N}(\mu, \sigma^2)$, $Y=aX+b \sim</description>
+    </item>
+    
+    <item>
+      <title>Expectation</title>
+      <link>https://0pow0.github.io/posts/prob/expectation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/expectation/</guid>
+      <description>期望 RV的函数的期望是函数值和prob的积的积分或导数 $E[c] = c$, c是常数 方差 方差的定义：偏差平方的期望 偏差平方：$(X-E[X])^2$ $Var[X] = E[(X-E[X])^2]$ 性</description>
+    </item>
+    
+    <item>
+      <title>File System</title>
+      <link>https://0pow0.github.io/posts/os/file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/file/</guid>
+      <description>Directory just store (filename, inode) pair in it.
+Hard link is just create another (filename, inode) pair under the directory.
+Soft link is the third file type beyond file and dir whose content is the linked-to filename, thus soft link has different inode number.
+See,
+Inode Given a free disk space, how to design file system on that?
+Sperate this space into file system blocks Assign data region, inode table, bit map for data region and inode table and super block Data region: User file content</description>
+    </item>
+    
+    <item>
+      <title>I/O</title>
+      <link>https://0pow0.github.io/posts/os/io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/io/</guid>
+      <description>I/O</description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://0pow0.github.io/posts/os/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/memory/</guid>
+      <description>Memory Virtualization</description>
+    </item>
+    
+    <item>
+      <title>Prefix function and KMP algorithm</title>
+      <link>https://0pow0.github.io/posts/alg/str/prefix_and_kmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/alg/str/prefix_and_kmp/</guid>
+      <description>Prefix Function: $\pi[i]$ 给定一个字符串s的前缀函数$\pi_s(i)$定义为：子串s[0: i]的相等的真前缀与真后缀的最长长度 Ex, s = abcadabc 0 0 0 1 0 1 2 3 $\pi_s[0] = 0$, 规</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://0pow0.github.io/posts/os/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/os/process/</guid>
+      <description>Process</description>
+    </item>
+    
+    <item>
+      <title>Set</title>
+      <link>https://0pow0.github.io/posts/discrete_math/set/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/discrete_math/set/</guid>
+      <description>The number of subset of A is $2^{|A|}$</description>
+    </item>
+    
+    <item>
+      <title>The Weak Law of Large Numbers</title>
+      <link>https://0pow0.github.io/posts/prob/WLLN/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/prob/WLLN/</guid>
+      <description>Markov inequality if X &amp;gt; 0 and E[X] is small, then X is unlikely to be very large markov 给出了RV大于某个值的概率的上界 if $X \geq 0$ and $a &amp;gt; 0$, then $P(X&amp;gt;a) \leq \frac{E[X]}{a}$ Chebyshev inequality if the variance is small, then X is unlikely to be too far from the mean chebyshev 不等式给</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation by Backpropagation</title>
+      <link>https://0pow0.github.io/posts/papers/arxiv_1409_p_7495/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/papers/arxiv_1409_p_7495/</guid>
+      <description>Unsupervised Domain Adaptation by Backpropagation Ganin, Yaroslav, and Victor Lempitsky. “Unsupervised Domain Adaptation by Backpropagation.” arXiv, February 27, 2015. https://doi.org/10.48550/arXiv.1409.7495.
+Using $G_d$ as dissimilarity measurement of the distribution of target domain $T(\bold{f}) = {G_f(\bold{x};\theta_f)|x\sim T(\bold{x})}$ and source domain $S(\bold{f}) = {G_f(\bold{x};\theta_f)|x\sim S(\bold{x})}$, why this works?
+input domain feature $G_d$&amp;rsquo;s output label for $G_d$ t T $f_t$ 0 1 one data sampe from training dataset of target domain 0 means source domain 1 means target domain Measure the dissimilarity of the two distribution is non-trivial due to high dimension and distribution continuous changing during training, so we can use $G_d$ to measure this dissimilarity, higher the $L_d$ means feature $f$ are more unlike the label, which means the dissimilarity.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>String related algorithms on Rui&#39;s Blog</title>
+    <link>https://0pow0.github.io/posts/alg/str/</link>
+    <description>Recent content in String related algorithms on Rui&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://0pow0.github.io/posts/alg/str/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prefix function and KMP algorithm</title>
+      <link>https://0pow0.github.io/posts/alg/str/prefix_and_kmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/alg/str/prefix_and_kmp/</guid>
+      <description>Prefix Function: $\pi[i]$ 给定一个字符串s的前缀函数$\pi_s(i)$定义为：子串s[0: i]的相等的真前缀与真后缀的最长长度 Ex, s = abcadabc 0 0 0 1 0 1 2 3 $\pi_s[0] = 0$, 规</description>
+    </item>
+    
+  </channel>
+</rss>
