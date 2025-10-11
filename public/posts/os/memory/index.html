@@ -125,7 +125,7 @@
   "keywords": [
     
   ],
-  "articleBody": " Hardware use base/bound reg to do address translation:\nif offset \u003c bound:\nPhy Addr = base + offset\nSegmentation Each logic segmentation (code, stack and heap) assign a pair of base/bound reg to it and complemented with growing direction and permission:\nPaging Page table\nValid bit: whether this translation is valid or not. For example for unallocated page is not valid translation\nProtection bit: whether the process has the priviledge to access this page\nPresent bit: whether this page is in memory or disk\nDirty bit: whether this page has ever been modified since last swapped into memory\nTLB Use ASID to distinguish different process\nSegmentaion + Paging ",
+  "articleBody": "Hardware use base/bound reg to do address translation:\nif offset Phy Addr = base + offset\nSegmentation Each logic segmentation (code, stack and heap) assign a pair of base/bound reg to it and complemented with growing direction and permission:\nPaging Page table\nValid bit: whether this translation is valid or not. For example for unallocated page is not valid translation\nProtection bit: whether the process has the priviledge to access this page\nPresent bit: whether this page is in memory or disk\nDirty bit: whether this page has ever been modified since last swapped into memory\nTLB Use ASID to distinguish different process\nSegmentaion + Paging ",
   "wordCount" : "108",
   "inLanguage": "en",
   "datePublished": "0001-01-01T00:00:00Z",
