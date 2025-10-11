@@ -44,20 +44,20 @@ languages:
         imageUrl: "img/avatar.JPG" #图片放在static/img/Q.gif
         imageTitle: 
         imageWidth: 150
-        imageHeight: 150
-        buttons:
-          - name: 👨🏻‍💻技术
-            url: posts/tech
-          - name: 📕阅读
-            url: posts/read
-          - name: 🏖生活
-            url: posts/life
+        # imageHeight: 150
+        # buttons:
+        #   - name: 👨🏻‍💻技术
+        #     url: posts/tech
+        #   - name: 📕阅读
+        #     url: posts/read
+        #   - name: 🏖生活
+        #     url: posts/life
       menu:
         main:
-          - identifier: search
-            name: 🔍搜索
-            url: search
-            weight: 1
+          # - identifier: search
+          #   name: 🔍搜索
+          #   url: search
+          #   weight: 1
           - identifier: home
             name: 🏠主页
             url: /
@@ -66,22 +66,22 @@ languages:
             name: 📚文章
             url: /posts
             weight: 3
-          - identifier: archives
-            name: ⏱时间轴
-            url: archives/
-            weight: 20
-          - identifier: tags
-            name: 🔖标签
-            url: tags
-            weight: 40
+          # - identifier: archives
+          #   name: ⏱时间轴
+          #   url: archives/
+          #   weight: 20
+          # - identifier: tags
+          #   name: 🔖标签
+          #   url: tags
+          #   weight: 40
           - identifier: about
             name: 🙋🏻‍♂️关于
             url: about
             weight: 50
-          - identifier: links
-            name: 🤝友链
-            url: links
-            weight: 60
+          # - identifier: links
+          #   name: 🤝友链
+          #   url: links
+          #   weight: 60
 
 outputs:
     home:
@@ -130,8 +130,8 @@ params:
         #  url: "img/wechat.png"
         - name: email
           url: "mailto:ruitso2018@gmail.com"
-        - name: RSS
-          url: "index.xml"
+        # - name: RSS
+        #   url: "index.xml"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"

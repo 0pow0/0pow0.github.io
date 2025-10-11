@@ -6,7 +6,25 @@
     <description>Recent content on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chap 6</title>
+      <link>https://0pow0.github.io/posts/deep_learning/chap6/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/deep_learning/chap6/</guid>
+      <description>Deep Feedforward Networks</description>
+    </item>
+    
+    <item>
+      <title>Beancount</title>
+      <link>https://0pow0.github.io/posts/Beancount/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/Beancount/</guid>
+      <description>复式记账Beancount 学习笔记 Types of Accounts</description>
+    </item>
+    
     <item>
       <title>Thread</title>
       <link>https://0pow0.github.io/posts/os/thread/</link>
@@ -174,7 +192,7 @@ Sperate this space into file system blocks Assign data region, inode table, bit 
       
       <guid>https://0pow0.github.io/posts/papers/arxiv_1409_p_7495/</guid>
       <description>Unsupervised Domain Adaptation by Backpropagation Ganin, Yaroslav, and Victor Lempitsky. “Unsupervised Domain Adaptation by Backpropagation.” arXiv, February 27, 2015. https://doi.org/10.48550/arXiv.1409.7495.
-Using $G_d$ as dissimilarity measurement of the distribution of target domain $T(\bold{f}) = {G_f(\bold{x};\theta_f)|x\sim T(\bold{x})}$ and source domain $S(\bold{f}) = {G_f(\bold{x};\theta_f)|x\sim S(\bold{x})}$, why this works?
+Using $G_d$ as dissimilarity measurement of the distribution of target domain $T(\bold{f}) = {G_f(\bold{x};\theta_f)|x\sim T(\bold{x})}$ and source domain $S(\bold{f}) = { G_f(\bold{x};\theta_f)|x\sim S(\bold{x})}$, why this works?
 input domain feature $G_d$&amp;rsquo;s output label for $G_d$ t T $f_t$ 0 1 one data sampe from training dataset of target domain 0 means source domain 1 means target domain Measure the dissimilarity of the two distribution is non-trivial due to high dimension and distribution continuous changing during training, so we can use $G_d$ to measure this dissimilarity, higher the $L_d$ means feature $f$ are more unlike the label, which means the dissimilarity.</description>
     </item>
     

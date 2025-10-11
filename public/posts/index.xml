@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Rui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0pow0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beancount</title>
+      <link>https://0pow0.github.io/posts/Beancount/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/Beancount/</guid>
+      <description>复式记账Beancount 学习笔记 Types of Accounts</description>
+    </item>
+    
     <item>
       <title>Object Oriented Design Principles</title>
       <link>https://0pow0.github.io/posts/OOD_principles/</link>

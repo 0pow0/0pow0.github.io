@@ -13,7 +13,7 @@ math: true
 
 ![image-20230316184550070](image-20230316184550070.png)
 
-Using $G_d$ as dissimilarity measurement of the distribution of target domain $T(\bold{f}) = \{G_f(\bold{x};\theta_f)|x\sim T(\bold{x})\}$ and source domain $S(\bold{f}) = \{G_f(\bold{x};\theta_f)|x\sim S(\bold{x})\}$, why this works?
+Using $G_d$ as dissimilarity measurement of the distribution of target domain $T(\bold{f}) = \{G_f(\bold{x};\theta_f)|x\sim T(\bold{x})\}$ and source domain $S(\bold{f}) = \{ G_f(\bold{x};\theta_f)|x\sim S(\bold{x})\}$, why this works?
 
 | input                                                  | domain | feature | $G_d$'s output        | label for $G_d$       |
 | ------------------------------------------------------ | ------ | ------- | --------------------- | --------------------- |
