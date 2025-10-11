@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://0pow0.github.io/posts/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Self-correction for LLMs</title>
+      <link>https://0pow0.github.io/posts/papers/llm_self_correction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0pow0.github.io/posts/papers/llm_self_correction/</guid>
+      <description>Review of Self-Correction for LLMs [1] distinguishes two types of self-correction based on the source of feedback:
+(1) Intrinsic and (2) External.
+[2] and [3] belong to intrinsic self-correction, where the domain provides ground-truth supervision (i.e., oracle labels) that can be leveraged during training.
+According to [1], when these oracle labels are not available, the performance improvements of intrinsic self-correction disappear, which contrasts with [2] and [3], where such labels are present and yield gains.</description>
+    </item>
+    
+    <item>
       <title>Unsupervised Domain Adaptation by Backpropagation</title>
       <link>https://0pow0.github.io/posts/papers/arxiv_1409_p_7495/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
